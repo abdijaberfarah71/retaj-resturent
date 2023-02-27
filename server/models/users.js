@@ -1,5 +1,4 @@
-const { max } = require("lodash");
-console.log(max);
+
 const mongoose = require("mongoose");
 
 const schema = new mongoose.Schema({
